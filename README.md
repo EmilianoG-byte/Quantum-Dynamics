@@ -12,14 +12,14 @@ In this thesis I implement an enveloping algorithm capable of generating noise w
 
 ## Structure
 
-The `notebooks` directory contains the ipynb files used for the generation of plots for the final report, as well as intermediate tests of spectral density functions (including comparisons with HEOM). The `scripts` directory contains the python scripts with the main noise-generation algorithm, the generation of autocorrelation and spectral density functions, and the NISE algorithm sent to run in the server.
+The `Notebooks` directory contains the ipynb files used for the generation of plots for the final report, as well as intermediate tests of spectral density functions (including comparisons with HEOM). The `Script` directory contains the python scripts with the main noise-generation algorithm, the generation of autocorrelation and spectral density functions, and the NISE algorithm sent to run in the server.
 
 ```
-├── notebooks
+├── Notebooks
 │   ├── Graphs-Generator.ipynb
 │   ├── Lorentzian_modified.ipynb
 │   ├── SD_tester.ipynb
-├── script
+├── Script
 │   ├── Drude_Lorentzian_noise.pyb
 │   ├── Lorentzian_noise_2peaks.py
 │   ├── RunNise.py
