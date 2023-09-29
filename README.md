@@ -1,4 +1,4 @@
-# Generating Structured Thermal Noise for Quantum Dynamical Systems
+# Bachelor thesis: *Generating Structured Thermal Noise for Quantum Dynamical Systems*
 
 Generation of colored structured noise for the simulation of energy fluctuations following non-Markovian correlations in quantum dynamical systems (light harvesting system). This is the code used for the generation of the data and plots of my bachelor thesis project at Jacobs University Bremen under the supervision of Prof. Ulrich Kleinekathöfer and Yannick Holtkamp.
 
