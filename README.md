@@ -8,7 +8,11 @@ To understand some of the most fundamental processes responsible for life on Ear
 
 In this thesis I implement an enveloping algorithm capable of generating noise with any arbitrary spectral density. Several tests are performed to verify the validity, scope and limitations of the algorithm. After finding the parameters necessary to replicate more complex spectral shapes, this noise is used in the calculation of population dynamics for a collection of test systems. These simulations provide insight on the parameter regimes and specific considerations for the implementation of the noise in these calculations, and yield useful information in the performance of NISE under the new frameworks.
 
-![image](https://github.com/EmilianoG-byte/Quantum-Dynamics/assets/57567043/dd853656-0d49-4ba1-8231-66fbdacda957)
+![image](https://github.com/EmilianoG-byte/Quantum-Dynamics/assets/57567043/dd853656-0d49-4ba1-8231-66fbdacda957) ![Noise](https://github.com/EmilianoG-byte/Quantum-Dynamics/assets/57567043/82bde530-a9ca-4ab7-a4f6-131626d98272)  ![f2_20](https://github.com/EmilianoG-byte/Quantum-Dynamics/assets/57567043/10d4380c-c4fe-48a1-ad21-5f154fb84f91) ![f2_2](https://github.com/EmilianoG-byte/Quantum-Dynamics/assets/57567043/ae4fc942-385a-4545-9421-be84c6b7e37c)
+
+
+
+
 
 ## Structure
 
